@@ -1,5 +1,7 @@
 # weblogic
-wlst scripts
+Weblogic Server Status Monitoring using WLST: 
+
+Usage: ./ServerStatusMonitoring.ksh <user> <passwd> <console_url>
 
 - Use this script to get Weblogic Server Status in realtime.
 - You can use this script from within a script to check status for any number of weblogic Environments.
