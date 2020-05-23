@@ -1,5 +1,6 @@
 #! /bin/ksh
 #Weblogic Monitoring script 
+#Author : https://twitter.com/anuj_tomar
 #Usage: ./ServerStatusMonitoring.ksh <user> <passwd> <console_url>
 
 SCRIPT_HOME=/usr/local/opt/WEB/weblogic/scripts/ServerStatus_Monitoring
